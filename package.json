@@ -1,0 +1,26 @@
+{
+  "name": "lol-esports-db",
+  "version": "1.0.0",
+  "description": "DB + surrounding statistics on competetive League of Legends",
+  "main": "/build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NandoTheessen/Competitive-LOL-DB.git"
+  },
+  "keywords": [
+    "League",
+    "of",
+    "Legends",
+    "Data",
+    "Statistics"
+  ],
+  "author": "Henry & Nando Theeßen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NandoTheessen/Competitive-LOL-DB/issues"
+  },
+  "homepage": "https://github.com/NandoTheessen/Competitive-LOL-DB#readme"
+}
